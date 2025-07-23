@@ -1,12 +1,7 @@
-<h2 align="center">Hey, I’m Aditya Rai 👋</h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=380&lines=Full+Stack+Web+Developer;MERN+Stack+Learner" alt="Typing Animation" />
-</p>
-
+<h2 align="center">Hey, I’m Aditya Rai </h2>
 ---
 
-### 🚀 About Me
+### About Me
 
 -  Passionate aboutFull Stack Web Development & Problem Solving  
 -  **MERN Stack** Developer
@@ -14,7 +9,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript" />
@@ -28,7 +23,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aditya51020&show_icons=true&hide_title=true&theme=graywhite&hide_border=true" width="48%" />
