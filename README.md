@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-- 🧑‍💻 Passionate about Web Development & Problem Solving  
+- 🧑‍💻 Passionate about Full Stack Web Development & Problem Solving  
 - 🌱 **MERN Stack** Developer
 - 📍 Based in India
 
@@ -41,10 +41,10 @@
   <a href="https://github.com/aditya51020" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github" />
   </a>
-  <a href="mailto:adityarai.dev@gmail.com" target="_blank">
+  <a href="mailto:foradityaworkdesk@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-000?style=flat&logo=gmail" />
   </a>
-  <a href="https://linkedin.com/in/aditya51020" target="_blank">
+  <a href="https://www.linkedin.com/in/aditya-rai01/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin" />
   </a>
 </p>
